@@ -1,13 +1,12 @@
 # USTC-resource-links
-USTC 各类课程资源。
-USTC resource links from all over the web. Updating...
+USTC 各类课程资源。持续更新中。。。
 
 https://ustc.life/#
 
-[![Stars](https://img.shields.io/github/stars/USTC-Resource/USTC-Course.svg?label=Stars&style=social)](https://github.com/ktwu01/USTC-resource-linksstargazers)
-[![Forks](https://img.shields.io/github/forks/USTC-Resource/USTC-Course.svg?label=Forks&style=social)](https://github.com/ktwu01/USTC-resource-linksnetwork/members)
-[![build](https://github.com/ktwu01/USTC-resource-linksworkflows/build/badge.svg)]()
-[![repo-size](https://img.shields.io/github/repo-size/USTC-Resource/USTC-Course.svg)]()
+[![Stars](https://img.shields.io/github/stars/ktwu01/USTC-resource-links.svg?label=Stars&style=social)](https://github.com/ktwu01/USTC-resource-links/stargazers)
+[![Forks](https://img.shields.io/github/forks/ktwu01/USTC-resource-links.svg?label=Forks&style=social)](https://github.com/ktwu01/USTC-resource-links/network/members)
+[![build](https://github.com/ktwu01/USTC-resource-links/workflows/build/badge.svg)]()
+[![repo-size](https://img.shields.io/github/repo-size/ktwu01/USTC-resource-links.svg)]()
+[![License](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-
-https://github.com/USTC-Resource/USTC-Course
+[https://github.com/USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course)
