@@ -67,11 +67,7 @@ https://ustc.life/#
 # 目录和查找
 各位亲爱的客官们，可以在此页面Ctrl+F 或者 Cmd+F 来直接搜索资料关键词，快速定位。
 
-
-[https://gitee.com/sunlvf/USTC-CS-Courses-Resource](https://gitee.com/sunlvf/USTC-CS-Courses-Resource) 中国科学技术大学计算机学院课程资源
-
-[![Stars](https://gitee.com/sunlvf/USTC-CS-Courses-Resource/badge/star.svg?theme=social)](https://gitee.com/sunlvf/USTC-CS-Courses-Resource/stargazers)
-[![Forks](https://gitee.com/sunlvf/USTC-CS-Courses-Resource/badge/fork.svg?theme=social)](https://gitee.com/sunlvf/USTC-CS-Courses-Resource/members)
+基本没有排序，尊重每一位作者劳动成果。
 
 
 [https://github.com/USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) ❤️中国科学技术大学课程资源
@@ -119,6 +115,66 @@ https://ustc.life/#
 
 [![Stars](https://img.shields.io/github/stars/Wloner0809/ustc-course-resource.svg?label=Stars&style=social)](https://github.com/Wloner0809/ustc-course-resource/stargazers)
 [![Forks](https://img.shields.io/github/forks/Wloner0809/ustc-course-resource.svg?label=Forks&style=social)](https://github.com/Wloner0809/ustc-course-resource/network/members)
+
+
+[https://gitee.com/sunlvf/USTC-CS-Courses-Resource](https://gitee.com/sunlvf/USTC-CS-Courses-Resource) 中国科学技术大学计算机学院课程资源
+
+[![Stars](https://gitee.com/sunlvf/USTC-CS-Courses-Resource/badge/star.svg?theme=social)](https://gitee.com/sunlvf/USTC-CS-Courses-Resource/stargazers)
+[![Forks](https://gitee.com/sunlvf/USTC-CS-Courses-Resource/badge/fork.svg?theme=social)](https://gitee.com/sunlvf/USTC-CS-Courses-Resource/members)
+
+[https://github.com/MingStudentSE/ustcse_courses](https://github.com/MingStudentSE/ustcse_courses) 中科大软件学院课程资料仓库
+
+[![Stars](https://img.shields.io/github/stars/MingStudentSE/ustcse_courses.svg?label=Stars&style=social)](https://github.com/MingStudentSE/ustcse_courses/stargazers)
+[![Forks](https://img.shields.io/github/forks/MingStudentSE/ustcse_courses.svg?label=Forks&style=social)](https://github.com/MingStudentSE/ustcse_courses/network/members)
+
+
+[https://github.com/zzh1996/USTC-Network-Resources](https://github.com/zzh1996/USTC-Network-Resources) 中国科大网络资源汇总
+
+[![Stars](https://img.shields.io/github/stars/zzh1996/USTC-Network-Resources.svg?label=Stars&style=social)](https://github.com/zzh1996/USTC-Network-Resources/stargazers)
+[![Forks](https://img.shields.io/github/forks/zzh1996/USTC-Network-Resources.svg?label=Forks&style=social)](https://github.com/zzh1996/USTC-Network-Resources/network/members)
+[![License](https://img.shields.io/github/license/zzh1996/USTC-Network-Resources)](https://github.com/zzh1996/USTC-Network-Resources/blob/master/LICENSE)
+
+[https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources](https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources) USTC计算机学院个人学习资料分享
+
+[![Stars](https://img.shields.io/github/stars/USTC-CS-Course-Resource/USTC-CS-Resources.svg?label=Stars&style=social)](https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/stargazers)
+[![Forks](https://img.shields.io/github/forks/USTC-CS-Course-Resource/USTC-CS-Resources.svg?label=Forks&style=social)](https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/network/members)
+[![License](https://img.shields.io/github/license/USTC-CS-Course-Resource/USTC-CS-Resources)](https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/blob/master/LICENSE)
+
+[https://github.com/qingyong-hu/CS](https://github.com/qingyong-hu/CS) USTC计算机课程资源
+
+[![Stars](https://img.shields.io/github/stars/qingyong-hu/CS.svg?label=Stars&style=social)](https://github.com/qingyong-hu/CS/stargazers)
+[![Forks](https://img.shields.io/github/forks/qingyong-hu/CS.svg?label=Forks&style=social)](https://github.com/qingyong-hu/CS/network/members)
+
+
+[https://github.com/QizhiPei/USTC-Resource-CS](https://github.com/QizhiPei/USTC-Resource-CS) USTC计算机科学资源
+
+[![Stars](https://img.shields.io/github/stars/QizhiPei/USTC-Resource-CS.svg?label=Stars&style=social)](https://github.com/QizhiPei/USTC-Resource-CS/stargazers)
+[![Forks](https://img.shields.io/github/forks/QizhiPei/USTC-Resource-CS.svg?label=Forks&style=social)](https://github.com/QizhiPei/USTC-Resource-CS/network/members)
+
+
+[https://github.com/Wloner0809/ustc-course-resource](https://github.com/Wloner0809/ustc-course-resource) 分享USTC课程资源的仓库
+
+[![Stars](https://img.shields.io/github/stars/Wloner0809/ustc-course-resource.svg?label=Stars&style=social)](https://github.com/Wloner0809/ustc-course-resource/stargazers)
+[![Forks](https://img.shields.io/github/forks/Wloner0809/ustc-course-resource.svg?label=Forks&style=social)](https://github.com/Wloner0809/ustc-course-resource/network/members)
+
+
+[https://github.com/Melmaphother/ustc-course-resources](https://github.com/Melmaphother/ustc-course-resources) 记录下我在ustc上过的课的课程资源
+
+[![Stars](https://img.shields.io/github/stars/Melmaphother/ustc-course-resources.svg?label=Stars&style=social)](https://github.com/Melmaphother/ustc-course-resources/stargazers)
+[![Forks](https://img.shields.io/github/forks/Melmaphother/ustc-course-resources.svg?label=Forks&style=social)](https://github.com/Melmaphother/ustc-course-resources/network/members)
+
+
+[https://github.com/ziyueqiu/USTC-CS-Resources](https://github.com/ziyueqiu/USTC-CS-Resources) USTC 18 计算机学院 个人资源分享
+
+[![Stars](https://img.shields.io/github/stars/ziyueqiu/USTC-CS-Resources.svg?label=Stars&style=social)](https://github.com/ziyueqiu/USTC-CS-Resources/stargazers)
+[![Forks](https://img.shields.io/github/forks/ziyueqiu/USTC-CS-Resources.svg?label=Forks&style=social)](https://github.com/ziyueqiu/USTC-CS-Resources/network/members)
+
+
+[https://github.com/MirageTurtle/USTC_CS_Resources](https://github.com/MirageTurtle/USTC_CS_Resources) USTC计算机课程的一些资源
+
+[![Stars](https://img.shields.io/github/stars/MirageTurtle/USTC_CS_Resources.svg?label=Stars&style=social)](https://github.com/MirageTurtle/USTC_CS_Resources/stargazers)
+[![Forks](https://img.shields.io/github/forks/MirageTurtle/USTC_CS_Resources.svg?label=Forks&style=social)](https://github.com/MirageTurtle/USTC_CS_Resources/network/members)
+
 
 请注意，这只是根据我们找到的一部分资源，一定还有其他相关的资源散落在不同的网站上。希望这些信息对您有所帮助！
 
