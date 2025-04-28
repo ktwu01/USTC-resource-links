@@ -5,17 +5,15 @@
 [![repo-size](https://img.shields.io/github/repo-size/ktwu01/USTC-resource-links.svg)]()
 [![License](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-本项目列出 USTC 各类课程资源。持续更新中。。。
+❤️❤️❤️各位亲爱的客官们！欢迎👏来到此小站。
+本项目列出 USTC 各类课程资源。持续更新中！
 
 https://ustc.life/#
 
 # 目录索引
 * [版权说明](#版权说明)
 * [反馈方式](#反馈方式)
-* [资料下载](#资料下载)
-* [课程结构](#课程结构)
-* [课程关系](#课程关系)
-* [课程目录](#课程目录)
+* [目录和查找](#目录和查找)
 * [贡献投稿](#贡献投稿)
 
 #版权说明
@@ -66,6 +64,8 @@ https://ustc.life/#
 
 -->
 
+# 目录和查找
+各位亲爱的客官们，可以在此页面Ctrl+F 或者 Cmd+F 来直接搜索资料关键词，快速定位。
 
 
 [https://github.com/USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) ❤️中国科学技术大学课程资源
