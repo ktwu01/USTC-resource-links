@@ -15,6 +15,8 @@ https://ustc.life/#
 * [反馈方式](#反馈方式)
 * [目录和查找](#目录和查找)
 * [贡献投稿](#贡献投稿)
+* [授人以渔](#授人以渔)
+
 
 #版权说明
 本仓库分享资料遵守互联网创作者之规定, 仅引用公开的资源。
@@ -178,6 +180,7 @@ https://ustc.life/#
 
 请注意，这只是根据我们找到的一部分资源，一定还有其他相关的资源散落在不同的网站上。希望这些信息对您有所帮助！
 
+
 # 贡献投稿
 
 >期待和感谢您的贡献 :smiley:
@@ -185,3 +188,11 @@ https://ustc.life/#
 - 仅接受同学们原创的或者获得授权的资源
 - GitHub 上不能直接上传大于 100Mb 的文件。对于超过 100 Mb 的文件，可以存在网盘，然后在 README.md 中贴上链接
 - 文件内容的改动会使 git 重新上传, 在没有必要的情况下, 请不要对二进制文件做任何更改哦～
+
+# 授人以渔
+
+在创作这个小站的过程中，我们使用的搜索链接有（供大家参考）：
+https://github.com/search?q=USTC-Resource+&type=repositories
+https://github.com/search?q=USTC+study&type=repositories
+https://github.com/search?q=USTC+undergrad&type=repositories
+
