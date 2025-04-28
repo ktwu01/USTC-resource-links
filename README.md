@@ -72,7 +72,7 @@ https://ustc.life/#
 基本没有排序，尊重每一位作者劳动成果。
 
 
-[https://github.com/USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) ❤️中国科学技术大学课程资源
+[https://github.com/USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) 中国科学技术大学课程资源
 
 [![Stars](https://img.shields.io/github/stars/USTC-Resource/USTC-Course.svg?label=Stars&style=social)](https://github.com/USTC-Resource/USTC-Course/stargazers)
 [![Forks](https://img.shields.io/github/forks/USTC-Resource/USTC-Course.svg?label=Forks&style=social)](https://github.com/USTC-Resource/USTC-Course/network/members)
@@ -140,7 +140,7 @@ https://ustc.life/#
 [![Forks](https://img.shields.io/github/forks/zzh1996/USTC-Network-Resources.svg?label=Forks&style=social)](https://github.com/zzh1996/USTC-Network-Resources/network/members)
 [![License](https://img.shields.io/github/license/zzh1996/USTC-Network-Resources)](https://github.com/zzh1996/USTC-Network-Resources/blob/master/LICENSE)
 
-[https://github.com/zzh1996/USTC-Network-Resources](https://github.com/zzh1996/USTC-Network-Resources) ❤️中国科大网络资源汇总
+[https://github.com/zzh1996/USTC-Network-Resources](https://github.com/zzh1996/USTC-Network-Resources) 中国科大网络资源汇总
 
 [![Stars](https://img.shields.io/github/stars/zzh1996/USTC-Network-Resources.svg?label=Stars&style=social)](https://github.com/zzh1996/USTC-Network-Resources/stargazers)
 [![Forks](https://img.shields.io/github/forks/zzh1996/USTC-Network-Resources.svg?label=Forks&style=social)](https://github.com/zzh1996/USTC-Network-Resources/network/members)
@@ -148,7 +148,7 @@ https://ustc.life/#
 
 
 
-[https://github.com/leitro/ustchacker.com](https://github.com/leitro/ustchacker.com) ❤️USTC Hackers' Club (使用 tornado 和 bootstrap 构建的分类兴趣网站)
+[https://github.com/leitro/ustchacker.com](https://github.com/leitro/ustchacker.com) USTC Hackers' Club (使用 tornado 和 bootstrap 构建的分类兴趣网站)
 
 [![Stars](https://img.shields.io/github/stars/leitro/ustchacker.com.svg?label=Stars&style=social)](https://github.com/leitro/ustchacker.com/stargazers)
 [![Forks](https://img.shields.io/github/forks/leitro/ustchacker.com.svg?label=Forks&style=social)](https://github.com/leitro/ustchacker.com/network/members)
@@ -156,7 +156,7 @@ https://ustc.life/#
 
 
 
-[https://github.com/WYGNG/USTC_SSE_Algorithm](https://github.com/WYGNG/USTC_SSE_Algorithm) ❤️中国科学技术大学软件学院算法设计与分析课程
+[https://github.com/WYGNG/USTC_SSE_Algorithm](https://github.com/WYGNG/USTC_SSE_Algorithm) 中国科学技术大学软件学院算法设计与分析课程
 
 [![Stars](https://img.shields.io/github/stars/WYGNG/USTC_SSE_Algorithm.svg?label=Stars&style=social)](https://github.com/WYGNG/USTC_SSE_Algorithm/stargazers)
 [![Forks](https://img.shields.io/github/forks/WYGNG/USTC_SSE_Algorithm.svg?label=Forks&style=social)](https://github.com/WYGNG/USTC_SSE_Algorithm/network/members)
@@ -164,7 +164,7 @@ https://ustc.life/#
 
 
 
-[https://github.com/mlzeng/CSC2020-USTC-FlammingMyCompiler](https://github.com/mlzeng/CSC2020-USTC-FlammingMyCompiler) ❤️全国大学生计算机系统能力大赛编译系统设计赛项目
+[https://github.com/mlzeng/CSC2020-USTC-FlammingMyCompiler](https://github.com/mlzeng/CSC2020-USTC-FlammingMyCompiler) 全国大学生计算机系统能力大赛编译系统设计赛项目
 
 [![Stars](https://img.shields.io/github/stars/mlzeng/CSC2020-USTC-FlammingMyCompiler.svg?label=Stars&style=social)](https://github.com/mlzeng/CSC2020-USTC-FlammingMyCompiler/stargazers)
 [![Forks](https://img.shields.io/github/forks/mlzeng/CSC2020-USTC-FlammingMyCompiler.svg?label=Forks&style=social)](https://github.com/mlzeng/CSC2020-USTC-FlammingMyCompiler/network/members)
@@ -172,7 +172,7 @@ https://ustc.life/#
 
 
 
-[https://github.com/15172658790/Blog](https://github.com/15172658790/Blog) ❤️中国科学技术大学计算机学院课程资源博客
+[https://github.com/15172658790/Blog](https://github.com/15172658790/Blog) 中国科学技术大学计算机学院课程资源博客
 
 [![Stars](https://img.shields.io/github/stars/15172658790/Blog.svg?label=Stars&style=social)](https://github.com/15172658790/Blog/stargazers)
 [![Forks](https://img.shields.io/github/forks/15172658790/Blog.svg?label=Forks&style=social)](https://github.com/15172658790/Blog/network/members)
@@ -180,7 +180,7 @@ https://ustc.life/#
 
 
 
-[https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources](https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources) ❤️USTC计算机学院 个人学习资料分享
+[https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources](https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources) USTC计算机学院 个人学习资料分享
 
 [![Stars](https://img.shields.io/github/stars/USTC-CS-Course-Resource/USTC-CS-Resources.svg?label=Stars&style=social)](https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/stargazers)
 [![Forks](https://img.shields.io/github/forks/USTC-CS-Course-Resource/USTC-CS-Resources.svg?label=Forks&style=social)](https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/network/members)
@@ -188,7 +188,7 @@ https://ustc.life/#
 
 
 
-[https://github.com/csflyer/USTCrank](https://github.com/csflyer/USTCrank) ❤️中科大 (USTC) 研究生入学考试成绩与排名查询
+[https://github.com/csflyer/USTCrank](https://github.com/csflyer/USTCrank) 中科大 (USTC) 研究生入学考试成绩与排名查询
 
 [![Stars](https://img.shields.io/github/stars/csflyer/USTCrank.svg?label=Stars&style=social)](https://github.com/csflyer/USTCrank/stargazers)
 [![Forks](https://img.shields.io/github/forks/csflyer/USTCrank.svg?label=Forks&style=social)](https://github.com/csflyer/USTCrank/network/members)
@@ -196,7 +196,7 @@ https://ustc.life/#
 
 
 
-[https://github.com/WYGNG/USTC_SSE_DiscreteMath](https://github.com/WYGNG/USTC_SSE_DiscreteMath) ❤️中国科学技术大学软件学院离散数学课程
+[https://github.com/WYGNG/USTC_SSE_DiscreteMath](https://github.com/WYGNG/USTC_SSE_DiscreteMath) 中国科学技术大学软件学院离散数学课程
 
 [![Stars](https://img.shields.io/github/stars/WYGNG/USTC_SSE_DiscreteMath.svg?label=Stars&style=social)](https://github.com/WYGNG/USTC_SSE_DiscreteMath/stargazers)
 [![Forks](https://img.shields.io/github/forks/WYGNG/USTC_SSE_DiscreteMath.svg?label=Forks&style=social)](https://github.com/WYGNG/USTC_SSE_DiscreteMath/network/members)
@@ -204,7 +204,7 @@ https://ustc.life/#
 
 
 
-[https://github.com/ustctug/ustcthesis](https://github.com/ustctug/ustcthesis) ❤️LaTeX template for USTC thesis (科大论文 LaTeX 模板)
+[https://github.com/ustctug/ustcthesis](https://github.com/ustctug/ustcthesis) LaTeX template for USTC thesis (科大论文 LaTeX 模板)
 
 [![Stars](https://img.shields.io/github/stars/ustctug/ustcthesis.svg?label=Stars&style=social)](https://github.com/ustctug/ustcthesis/stargazers)
 [![Forks](https://img.shields.io/github/forks/ustctug/ustcthesis.svg?label=Forks&style=social)](https://github.com/ustctug/ustcthesis/network/members)
@@ -212,7 +212,7 @@ https://ustc.life/#
 
 
 
-[https://github.com/ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) ❤️Documentation for USTC Mirrors (科大镜像站帮助文档)
+[https://github.com/ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) Documentation for USTC Mirrors (科大镜像站帮助文档)
 
 [![Stars](https://img.shields.io/github/stars/ustclug/mirrorhelp.svg?label=Stars&style=social)](https://github.com/ustclug/mirrorhelp/stargazers)
 [![Forks](https://img.shields.io/github/forks/ustclug/mirrorhelp.svg?label=Forks&style=social)](https://github.com/ustclug/mirrorhelp/network/members)
@@ -220,7 +220,7 @@ https://ustc.life/#
 
 
 
-[https://github.com/Ubpa/USTC_CG](https://github.com/Ubpa/USTC_CG) ❤️00106501: Computer Graphics (Spring-Summer) (计算机图形学课程)
+[https://github.com/Ubpa/USTC_CG](https://github.com/Ubpa/USTC_CG) 00106501: Computer Graphics (Spring-Summer) (计算机图形学课程)
 
 [![Stars](https://img.shields.io/github/stars/Ubpa/USTC_CG.svg?label=Stars&style=social)](https://github.com/Ubpa/USTC_CG/stargazers)
 [![Forks](https://img.shields.io/github/forks/Ubpa/USTC_CG.svg?label=Forks&style=social)](https://github.com/Ubpa/USTC_CG/network/members)
@@ -228,7 +228,7 @@ https://ustc.life/#
 
 
 
-[https://github.com/outman123/USTC-SSE-Courses](https://github.com/outman123/USTC-SSE-Courses) ❤️中科大软件学院研究生部分课程，持续更新
+[https://github.com/outman123/USTC-SSE-Courses](https://github.com/outman123/USTC-SSE-Courses) 中科大软件学院研究生部分课程，持续更新
 
 [![Stars](https://img.shields.io/github/stars/outman123/USTC-SSE-Courses.svg?label=Stars&style=social)](https://github.com/outman123/USTC-SSE-Courses/stargazers)
 [![Forks](https://img.shields.io/github/forks/outman123/USTC-SSE-Courses.svg?label=Forks&style=social)](https://github.com/outman123/USTC-SSE-Courses/network/members)
@@ -236,7 +236,7 @@ https://ustc.life/#
 
 
 
-[https://github.com/davidyslu/USTC-TK2016](https://github.com/davidyslu/USTC-TK2016) ❤️Toolkit for processing PCAP file and transform into image of MNIST dataset (处理PCAP文件并转换为MNIST数据集图像的工具包)
+[https://github.com/davidyslu/USTC-TK2016](https://github.com/davidyslu/USTC-TK2016) Toolkit for processing PCAP file and transform into image of MNIST dataset (处理PCAP文件并转换为MNIST数据集图像的工具包)
 
 [![Stars](https://img.shields.io/github/stars/davidyslu/USTC-TK2016.svg?label=Stars&style=social)](https://github.com/davidyslu/USTC-TK2016/stargazers)
 [![Forks](https://img.shields.io/github/forks/davidyslu/USTC-TK2016.svg?label=Forks&style=social)](https://github.com/davidyslu/USTC-TK2016/network/members)
@@ -244,7 +244,7 @@ https://ustc.life/#
 
 
 
-[https://github.com/WangXuan95/USTC-RVSoC](https://github.com/WangXuan95/USTC-RVSoC) ❤️基于FPGA的RISC-V SoC，包含一个RV32I CPU、一个简单可扩展的总线、一些外设
+[https://github.com/WangXuan95/USTC-RVSoC](https://github.com/WangXuan95/USTC-RVSoC) 基于FPGA的RISC-V SoC，包含一个RV32I CPU、一个简单可扩展的总线、一些外设
 
 [![Stars](https://img.shields.io/github/stars/WangXuan95/USTC-RVSoC.svg?label=Stars&style=social)](https://github.com/WangXuan95/USTC-RVSoC/stargazers)
 [![Forks](https://img.shields.io/github/forks/WangXuan95/USTC-RVSoC.svg?label=Forks&style=social)](https://github.com/WangXuan95/USTC-RVSoC/network/members)
@@ -252,7 +252,7 @@ https://ustc.life/#
 
 
 
-[https://github.com/USTC-iCourse/ustc-course](https://github.com/USTC-iCourse/ustc-course) ❤️USTC iCourse - 科大学生常用的课程评价平台
+[https://github.com/USTC-iCourse/ustc-course](https://github.com/USTC-iCourse/ustc-course) USTC iCourse - 科大学生常用的课程评价平台
 
 [![Stars](https://img.shields.io/github/stars/USTC-iCourse/ustc-course.svg?label=Stars&style=social)](https://github.com/USTC-iCourse/ustc-course/stargazers)
 [![Forks](https://img.shields.io/github/forks/USTC-iCourse/ustc-course.svg?label=Forks&style=social)](https://github.com/USTC-iCourse/ustc-course/network/members)
@@ -260,7 +260,7 @@ https://ustc.life/#
 
 
 
-[https://github.com/ustctug/ustcbeamer](https://github.com/ustctug/ustcbeamer) ❤️USTC Beamer 模板（基于学校公用 PPT 模板）
+[https://github.com/ustctug/ustcbeamer](https://github.com/ustctug/ustcbeamer) USTC Beamer 模板（基于学校公用 PPT 模板）
 
 [![Stars](https://img.shields.io/github/stars/ustctug/ustcbeamer.svg?label=Stars&style=social)](https://github.com/ustctug/ustcbeamer/stargazers)
 [![Forks](https://img.shields.io/github/forks/ustctug/ustcbeamer.svg?label=Forks&style=social)](https://github.com/ustctug/ustcbeamer/network/members)
