@@ -9,4 +9,5 @@ https://ustc.life/#
 [![repo-size](https://img.shields.io/github/repo-size/ktwu01/USTC-resource-links.svg)]()
 [![License](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-[https://github.com/USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course)
+[https://github.com/USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) ❤️中国科学技术大学课程资源
+[https://github.com/ustcwpz/USTC-CS-Courses-Resource](https://github.com/ustcwpz/USTC-CS-Courses-Resource) USTC计算机学院课程资源
