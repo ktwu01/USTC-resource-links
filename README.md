@@ -376,7 +376,10 @@ https://ustc.life/#
 
 在创作这个小站的过程中，我们使用的搜索链接有（供大家参考）：
 https://github.com/search?q=USTC&type=repositories&s=stars&o=desc
+
 https://github.com/search?q=USTC-Resource+&type=repositories
+
 https://github.com/search?q=USTC+study&type=repositories
+
 https://github.com/search?q=USTC+undergrad&type=repositories
 
