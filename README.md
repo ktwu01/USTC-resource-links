@@ -1,7 +1,7 @@
 # USTC-resource-links
 [![Stars](https://img.shields.io/github/stars/ktwu01/USTC-resource-links.svg?label=Stars&style=social)](https://github.com/ktwu01/USTC-resource-links/stargazers)
 [![Forks](https://img.shields.io/github/forks/ktwu01/USTC-resource-links.svg?label=Forks&style=social)](https://github.com/ktwu01/USTC-resource-links/network/members)
-[![build](https://github.com/ktwu01/USTC-resource-links/workflows/build/badge.svg)]()
+<!--[![build](https://github.com/ktwu01/USTC-resource-links/workflows/build/badge.svg)]()-->
 [![repo-size](https://img.shields.io/github/repo-size/ktwu01/USTC-resource-links.svg)]()
 [![License](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
