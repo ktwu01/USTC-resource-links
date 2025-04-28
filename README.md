@@ -124,6 +124,10 @@ https://ustc.life/#
 [![Stars](https://gitee.com/sunlvf/USTC-CS-Courses-Resource/badge/star.svg?theme=social)](https://gitee.com/sunlvf/USTC-CS-Courses-Resource/stargazers)
 [![Forks](https://gitee.com/sunlvf/USTC-CS-Courses-Resource/badge/fork.svg?theme=social)](https://gitee.com/sunlvf/USTC-CS-Courses-Resource/members)
 
+[https://github.com/guidongnan/ustc_ds_undergraduate_course](https://github.com/guidongnan/ustc_ds_undergraduate_course) 中国科大数据科学学院本科课程资料
+
+[![Stars](https://img.shields.io/github/stars/guidongnan/ustc_ds_undergraduate_course.svg?label=Stars&style=social)](https://github.com/guidongnan/ustc_ds_undergraduate_course/stargazers)
+
 [https://github.com/MingStudentSE/ustcse_courses](https://github.com/MingStudentSE/ustcse_courses) 中科大软件学院课程资料仓库
 
 [![Stars](https://img.shields.io/github/stars/MingStudentSE/ustcse_courses.svg?label=Stars&style=social)](https://github.com/MingStudentSE/ustcse_courses/stargazers)
@@ -160,6 +164,7 @@ https://ustc.life/#
 [![Forks](https://img.shields.io/github/forks/Wloner0809/ustc-course-resource.svg?label=Forks&style=social)](https://github.com/Wloner0809/ustc-course-resource/network/members)
 
 
+
 [https://github.com/Melmaphother/ustc-course-resources](https://github.com/Melmaphother/ustc-course-resources) 记录下我在ustc上过的课的课程资源
 
 [![Stars](https://img.shields.io/github/stars/Melmaphother/ustc-course-resources.svg?label=Stars&style=social)](https://github.com/Melmaphother/ustc-course-resources/stargazers)
@@ -176,6 +181,38 @@ https://ustc.life/#
 
 [![Stars](https://img.shields.io/github/stars/MirageTurtle/USTC_CS_Resources.svg?label=Stars&style=social)](https://github.com/MirageTurtle/USTC_CS_Resources/stargazers)
 [![Forks](https://img.shields.io/github/forks/MirageTurtle/USTC_CS_Resources.svg?label=Forks&style=social)](https://github.com/MirageTurtle/USTC_CS_Resources/network/members)
+
+[https://github.com/ljy0ustc/USTC_Resources](https://github.com/ljy0ustc/USTC_Resources) 中科大计算机学院学习资料
+
+[![Stars](https://img.shields.io/github/stars/ljy0ustc/USTC_Resources.svg?label=Stars&style=social)](https://github.com/ljy0ustc/USTC_Resources/stargazers)
+
+[https://github.com/Micheallei/USTC-CS-Resource](https://github.com/Micheallei/USTC-CS-Resource) USTC计算机科学资源
+
+[![Stars](https://img.shields.io/github/stars/Micheallei/USTC-CS-Resource.svg?label=Stars&style=social)](https://github.com/Micheallei/USTC-CS-Resource/stargazers)
+
+[https://github.com/spread11/https-github.com-mbinary-USTC-CS-Courses-Resource](https://github.com/spread11/https-github.com-mbinary-USTC-CS-Courses-Resource) USTC计算机学院课程资源 (可能为镜像)
+
+[![Stars](https://img.shields.io/github/stars/spread11/https-github.com-mbinary-USTC-CS-Courses-Resource.svg?label=Stars&style=social)](https://github.com/spread11/https-github.com-mbinary-USTC-CS-Courses-Resource/stargazers)
+
+[https://github.com/MaZirui2001/USTC-CS-Study](https://github.com/MaZirui2001/USTC-CS-Study) 存放了中国科大2020秋季学期至2023春季学期部分计算机专业课资源
+
+[![Stars](https://img.shields.io/github/stars/MaZirui2001/USTC-CS-Study.svg?label=Stars&style=social)](https://github.com/MaZirui2001/USTC-CS-Study/stargazers)
+
+[https://github.com/MaZirui2001/cs-study](https://github.com/MaZirui2001/cs-study) USTC计算机学院的学习资料
+
+[https://github.com/brealid/ustcjwxt-python-lib](https://github.com/brealid/ustcjwxt-python-lib) 中国科大教务系统API，仅供学习使用
+
+[![Stars](https://img.shields.io/github/stars/brealid/ustcjwxt-python-lib.svg?label=Stars&style=social)](https://github.com/brealid/ustcjwxt-python-lib/stargazers)
+
+[https://github.com/root-hbx/USTC-Top-Down-Networks](https://github.com/root-hbx/USTC-Top-Down-Networks) 我的USTC自顶向下计算机网络学习笔记
+
+[https://github.com/expecto347/USTC_Compute_Science_Lab](https://github.com/expecto347/USTC_Compute_Science_Lab) 这个仓库包含了我在中国科大学习期间所写的所有实验的源代码
+
+[https://github.com/hwyii/USTC-homework](https://github.com/hwyii/USTC-homework) USTC课程作业和学习资料 (2020-2024) DL study and homework USTC-homework Homework (code) and Course materials in USTC from 2020 to 2024...
+
+[https://github.com/Zzzcore/USTC-UG-labs](https://github.com/Zzzcore/USTC-UG-labs) 我在USTC本科期间的一些有意义的实验
+
+[https://github.com/zhiqi-0/undergraduate-lab](https://github.com/zhiqi-0/undergraduate-lab) 我的USTC本科课程实验
 
 
 请注意，这只是根据我们找到的一部分资源，一定还有其他相关的资源散落在不同的网站上。希望这些信息对您有所帮助！
