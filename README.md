@@ -214,6 +214,26 @@ https://ustc.life/#
 
 [https://github.com/zhiqi-0/undergraduate-lab](https://github.com/zhiqi-0/undergraduate-lab) 我的USTC本科课程实验
 
+[https://github.com/USTC-CS-Course-Resource/USTC-Compilers-Principles](https://github.com/USTC-CS-Course-Resource/USTC-Compilers-Principles)
+中国科学技术大学编译原理课程的实验和书面作业。
+
+[https://github.com/USTC-CS-Course-Resource/USTC-2020-COD-Labs](https://github.com/USTC-CS-Course-Resource/USTC-2020-COD-Labs)
+包含中国科学技术大学计算机组成与设计课程的实验代码（Verilog）。
+
+[https://github.com/HasiNed/my-ustc](https://github.com/HasiNed/my-ustc) (原名 VinciZhu/AIDS-USTC)
+包含作者在中国科学技术大学本科期间的部分课程的作业、笔记和资源。
+
+[https://github.com/Zhaoyi-Li21/Courseworks-for-graduate-at-USTC](https://github.com/Zhaoyi-Li21/Courseworks-for-graduate-at-USTC)
+包含作者在中国科学技术大学计算机科学研究生期间的实验、作业、报告等（请注意这是研究生课程资源）。
+
+[https://github.com/guidongnan/ustc_ds_undergraduate_course](https://github.com/guidongnan/ustc_ds_undergraduate_course)
+看起来是中国科学技术大学本科数据结构课程的相关资源。
+
+[https://github.com/drdh/Courses](https://github.com/drdh/Courses)
+中国科学技术大学计算机科学课程项目和笔记。
+
+[https://csdiy.wiki/en/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/USTC-Compilers/](https://csdiy.wiki/en/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/USTC-Compilers/)
+关于中国科学技术大学编译原理课程的介绍和资源汇总（csdiy.wiki 网站）。
 
 请注意，这只是根据我们找到的一部分资源，一定还有其他相关的资源散落在不同的网站上。希望这些信息对您有所帮助！
 
