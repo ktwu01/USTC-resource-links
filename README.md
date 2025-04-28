@@ -68,6 +68,12 @@ https://ustc.life/#
 各位亲爱的客官们，可以在此页面Ctrl+F 或者 Cmd+F 来直接搜索资料关键词，快速定位。
 
 
+[https://gitee.com/sunlvf/USTC-CS-Courses-Resource](https://gitee.com/sunlvf/USTC-CS-Courses-Resource) 中国科学技术大学计算机学院课程资源
+
+[![Stars](https://gitee.com/sunlvf/USTC-CS-Courses-Resource/badge/star.svg?theme=social)](https://gitee.com/sunlvf/USTC-CS-Courses-Resource/stargazers)
+[![Forks](https://gitee.com/sunlvf/USTC-CS-Courses-Resource/badge/fork.svg?theme=social)](https://gitee.com/sunlvf/USTC-CS-Courses-Resource/members)
+
+
 [https://github.com/USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course) ❤️中国科学技术大学课程资源
 
 [![Stars](https://img.shields.io/github/stars/USTC-Resource/USTC-Course.svg?label=Stars&style=social)](https://github.com/USTC-Resource/USTC-Course/stargazers)
@@ -103,6 +109,16 @@ https://ustc.life/#
 [![repo-size](https://img.shields.io/github/repo-size/USTC-CS-Course-Resource/USTC-Compilers-Principles.svg)]()
 [![License](https://img.shields.io/github/license/USTC-CS-Course-Resource/USTC-Compilers-Principles)](https://github.com/USTC-CS-Course-Resource/USTC-Compilers-Principles/blob/master/LICENSE)
 
+[https://github.com/shining1984/PL-Compiler-Resource](https://github.com/shining1984/PL-Compiler-Resource) 程序语言与编译技术相关资料（持续更新中）
+
+[![Stars](https://img.shields.io/github/stars/shining1984/PL-Compiler-Resource.svg?label=Stars&style=social)](https://github.com/shining1984/PL-Compiler-Resource/stargazers)
+[![Forks](https://img.shields.io/github/forks/shining1984/PL-Compiler-Resource.svg?label=Forks&style=social)](https://github.com/shining1984/PL-Compiler-Resource/network/members)
+[![License](https://img.shields.io/github/license/shining1984/PL-Compiler-Resource)](https://github.com/shining1984/PL-Compiler-Resource/blob/master/LICENSE)
+
+[https://github.com/Wloner0809/ustc-course-resource](https://github.com/Wloner0809/ustc-course-resource) 分享USTC课程资源的仓库
+
+[![Stars](https://img.shields.io/github/stars/Wloner0809/ustc-course-resource.svg?label=Stars&style=social)](https://github.com/Wloner0809/ustc-course-resource/stargazers)
+[![Forks](https://img.shields.io/github/forks/Wloner0809/ustc-course-resource.svg?label=Forks&style=social)](https://github.com/Wloner0809/ustc-course-resource/network/members)
 
 请注意，这只是根据我们找到的一部分资源，一定还有其他相关的资源散落在不同的网站上。希望这些信息对您有所帮助！
 
